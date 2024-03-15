@@ -1,0 +1,17 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: -2110161149685940801
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: EASY
+    mohist: false
+  DIM1:
+    worldborder: 5.9999968E7
+  DIM-1:
+    worldborder: 5.9999968E7
+  the_aether:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: aether
